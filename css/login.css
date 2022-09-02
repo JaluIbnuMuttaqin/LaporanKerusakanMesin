@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(71.17deg, #0876B2 19.35%, #002F8B 90.12%);
+}
+
+.form-login h1 {
+    color: #1D64EE;
+    font-size: 22px;
+    text-align: center;
+}
+
+.form-login p {
+    color: #6C6C6C;
+    text-align: center;
+}
+
+.form-login {
+    background-color: #FFFFFF;
+    width: 475px;
+    height: 550px;
+    border-radius: 10px;
+    padding: 80px 10px 50px 10px;
+    transform: translate(70%, 10%);
+
+}
+
+.form-login button {
+    width: 455px;
+    height: 44px
+}
